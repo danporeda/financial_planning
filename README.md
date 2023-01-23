@@ -1,3 +1,3 @@
-# financial_planning
-module 5 challenge
--Open financial_planning_tools.ipynb to run the program.
+# Financial Planning
+
+Analysis of an investment account, and performance projections using Alpaca API and Monte-Carlo simulations. 
